@@ -22,4 +22,9 @@ https://blog.csdn.net/SuJxxx/article/details/89424718?depth_1-utm_source=distrib
 实施商品管理系统项目 《第十天》导出Excel功能/商品管理添加编辑删除功能
 https://blog.csdn.net/SuJxxx/article/details/89462481?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
 
+实施商品信息管理项目《第十一天》库存和种类增删改查
+https://blog.csdn.net/SuJxxx/article/details/89483245?depth_1-utm_source=distribute.pc_relevant_right.none-task&utm_source=distribute.pc_relevant_right.none-task
+
+实施商品信息管理项目《第十二天》回收管理、订单管理增删改查
+https://blog.csdn.net/SuJxxx/article/details/89504552?depth_1-utm_source=distribute.pc_relevant_right.none-task&utm_source=distribute.pc_relevant_right.none-task
 

@@ -19,6 +19,9 @@ https://blog.csdn.net/SuJxxx/article/details/89399395?depth_1-utm_source=distrib
 实施商品管理系统项目之解决问题《第七天》、《第八天》
 https://blog.csdn.net/SuJxxx/article/details/89424718?depth_1-utm_source=distribute.pc_relevant_right.none-task&utm_source=distribute.pc_relevant_right.none-task
 
+实施商品管理系统项目之解决问题《第九天》
+https://blog.csdn.net/SuJxxx/article/details/89441287
+
 实施商品管理系统项目 《第十天》导出Excel功能/商品管理添加编辑删除功能
 https://blog.csdn.net/SuJxxx/article/details/89462481?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
 
